@@ -1,0 +1,19 @@
+{
+  "name": "abrege-frere",
+  "version": "1.0.0",
+  "description": "Une application permettant de résumer n'importe quelle vidéo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rounel",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^36.4.0"
+  },
+  "dependencies": {
+    "node-windows": "^1.0.0-beta.8",
+    "wait-on": "^8.0.3"
+  }
+}
